@@ -1,5 +1,5 @@
 # Flights Data Exploration
-## by (Medhat Hamdy Zaki)
+## by (Medhat Zaki)
 
 
 ## Dataset
