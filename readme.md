@@ -1,4 +1,4 @@
-# (Flights Data Exploration)
+# Flights Data Exploration
 ## by (Medhat Hamdy Zaki)
 
 
